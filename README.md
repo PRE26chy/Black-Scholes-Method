@@ -25,6 +25,7 @@ Components of the Black-Scholes Model are:
 
 I have taken the help of various resources available online to do the project. Playlists of the Black-Scholes model available on YouTube such as those of Mehul Mehta and Ryan O’Connell along with many more have been tremendously helpful. 
 
-
+I also experimented this method in google sheets. The link is attached below.
+https://docs.google.com/spreadsheets/d/12D9HQhL1aaKPnUFS0NecneEwRHhHDdkrYJy7jIYyKxc/edit?usp=sharing
 
 
